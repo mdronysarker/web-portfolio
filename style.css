@@ -1,0 +1,87 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    
+}
+#font{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.word-color{
+    color:orange;
+}
+.half-width{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 4%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    background-image:linear-gradient(orange, olive);
+    padding: 10px 30px;
+    border-radius: 5px ;
+    color: white;
+}
+section{
+    height: 500px;
+}
+.half{
+    width: 15%;
+    margin: 5%;
+    padding:2%;
+    float: left;
+    border-radius: 19px;
+    height: 360px;
+    
+}
+.center{
+    text-align: center;
+}
+.half img{
+    width: 50%;
+}
+#green{
+    background-color: aquamarine;
+}
+#purple{
+    background-color: cornflowerblue;
+}
+#light{
+    background-color: crimson;
+}
+.height{
+    width: 30%;
+    margin:4%;
+    float: left;
+    border-radius: 10px;
+    height: 360px;
+    
+
+}
+.height img{
+    width: 100%;
+}
+.web{
+    width: 20%;
+    box-shadow: 10px,10,40px,green;
+    border-radius: 10px;
+    margin: 4%;
+    padding:2%;
+    float: left;
+    height: 360px;
+
+}
+#raju{
+    background-color: coral;
+}
+#moni{
+    background-color: crimson;
+
+}
+#rony{
+    background-color: cyan;
+}
