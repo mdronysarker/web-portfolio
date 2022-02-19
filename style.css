@@ -16,6 +16,7 @@ h1{
     float:left;
     margin-left: 5%;
     padding-left: 4%;
+    overflow: hidden;
 }
 .half-width img{
     width: 100%;
@@ -30,12 +31,13 @@ section{
     height: 500px;
 }
 .half{
-    width: 15%;
-    margin: 5%;
-    padding:2%;
+    width: 20%;
+    margin-left: 5%;
+    padding-left: 4%;
     float: left;
     border-radius: 19px;
-    height: 360px;
+    height: 350px;
+    overflow: hidden;
     
 }
 .center{
@@ -55,10 +57,12 @@ section{
 }
 .height{
     width: 30%;
-    margin:4%;
+    margin-left: 7%;
+    padding-top: 5%;
     float: left;
     border-radius: 10px;
-    height: 360px;
+    height: 300px;
+    overflow: hidden;
     
 
 }
@@ -69,10 +73,11 @@ section{
     width: 20%;
     box-shadow: 10px,10,40px,green;
     border-radius: 10px;
-    margin: 4%;
-    padding:2%;
+    margin-left: 10%;
+    padding-left: 1%;
     float: left;
-    height: 360px;
+    height: 300px;
+    overflow: hidden;
 
 }
 #raju{
